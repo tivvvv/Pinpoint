@@ -1,0 +1,3 @@
+add_executable(pinpoint_demo pinpoint_demo.cpp)
+
+target_link_libraries(pinpoint_demo PRIVATE Pinpoint)

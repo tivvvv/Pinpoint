@@ -1,0 +1,6 @@
+#ifndef PINPOINT_PINPOINT_H
+#define PINPOINT_PINPOINT_H
+
+int pin();
+
+#endif //PINPOINT_PINPOINT_H
