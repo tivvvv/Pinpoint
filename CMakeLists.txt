@@ -33,5 +33,6 @@ endif ()
 
 # 添加test目录
 if (BUILD_TEST)
+    add_subdirectory(googletest-1.17.0)
     add_subdirectory(test)
 endif ()
